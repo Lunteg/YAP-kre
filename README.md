@@ -549,6 +549,11 @@ public static void Main()
    * 32.13.2000 преобразуется в "The 1 of February 2001";
    * Високосные года;
    * -1.-1.-1 преобразуется в "The 1 of January 1";
+   
+## Вместо работы по матрицам
+https://learn.microsoft.com/ru-ru/aspnet/core/data/ef-rp/intro?view=aspnetcore-7.0&tabs=visual-studio
+[Использование Razor Pages с Entity Framework Core в ASP.NET Core 8 частей]
+Изучите данное руководство, разберитесь в нем, запустите представленный код у себя на устройстве и после этого отчитайтесь в Дискорде.
 
 
 ## Проектирование (дедлайн 16 декабря)
